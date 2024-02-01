@@ -1,0 +1,51 @@
+Theatre_ID,Movie_ID,Name,Location,Capacity,Amenities
+1,1,Yacero,Kon Dơng,231,Accessible seating/Parking/VIP services
+2,2,Wikivu,Mufushan,489,Wi-Fi/Parking/Food and drinks/Accessible seating
+3,3,Photospace,Polkowice,433,Wi-Fi/Parking/Food and drinks/Accessible seating
+4,4,,Ketara,325,Accessible seating/Parking/VIP services
+5,5,Ntag,Jiaoqi,655,Wi-Fi/Parking/Food and drinks/Accessible seating
+6,6,Ooba,Cikayas,476,Wi-Fi/Parking/Reserved seating/VIP services
+7,7,Einti,Baytā al Fawqā,520,Wi-Fi/Parking/Reserved seating/VIP services
+8,8,Avavee,Toong,,Wi-Fi/Parking/Food and drinks/Captioning/Audio description
+9,9,Podcat,Maranura,675,Wi-Fi/Parking/Reserved seating/VIP services
+10,10,Pixonyx,Khandagayty,440,Wi-Fi/Parking/Reserved seating/VIP services
+11,11,Jabbertype,Monte Leite,464,Wi-Fi/Parking/Reserved seating/VIP services
+12,12,Eazzy,Jianshe,371,Accessible seating/Parking/VIP services
+13,13,Zoomdog,Bakulong,671,
+14,14,Bubblemix,Santa Rita,578,Wi-Fi/Parking/Food and drinks/Accessible seating
+15,15,Jaxspan,La Unión,335,Wi-Fi/Parking/Reserved seating/VIP services
+16,16,Tanoodle,João Câmara,321,Wi-Fi/Parking/Food and drinks/Captioning/Audio description
+17,17,Skaboo,Isla,786,Wi-Fi/Parking/Reserved seating/VIP services
+18,18,Bubblebox,,323,Accessible seating/Parking/VIP services
+19,19,Brainbox,Banjarsari,617,Wi-Fi/Parking/Reserved seating/VIP services
+20,20,Meetz,Dauphin,384,Accessible seating/Parking/VIP services
+21,21,Blognation,Jiaojie,647,Wi-Fi/Parking/Food and drinks/Accessible seating
+22,22,Vipe,Maebashi-shi,474,Wi-Fi/Parking/Food and drinks/Captioning/Audio description
+23,23,Mybuzz,Piedrancha,682,Wi-Fi/Parking/Reserved seating/VIP services
+24,24,Devify,Lagunillas,707,Wi-Fi/Parking/Reserved seating/VIP services
+25,25,Realcube,Itapecerica da Serra,635,Accessible seating/Parking/VIP services
+26,26,Leenti,Kegeyli Shahar,504,Wi-Fi/Parking/Reserved seating/VIP services
+27,27,Cogidoo,Nazyvayevsk,656,Accessible seating/Parking/VIP services
+28,28,Ntags,Babakankalong,506,Wi-Fi/Parking/Reserved seating/VIP services
+29,29,,Gaspra,648,Wi-Fi/Parking/Food and drinks/Captioning/Audio description
+30,30,Oyoloo,‘Attīl,481,Accessible seating/Parking/VIP services
+31,31,Linktype,Bohicon,656,Accessible seating/Parking/VIP services
+32,32,Quamba,Dowlatyār,282,Wi-Fi/Parking/Food and drinks/Accessible seating
+33,33,Vipe,Vale da Bajouca,418,
+34,34,Brainlounge,Presidente Bernardes,757,Accessible seating/Parking/VIP services
+35,35,Wordware,Ariquemes,347,Accessible seating/Parking/VIP services
+36,36,Tagpad,,792,Accessible seating/Parking/VIP services
+37,37,Jetpulse,Aiximan,658,Wi-Fi/Parking/Food and drinks/Captioning/Audio description
+38,38,Demizz,Palma Gil,268,Wi-Fi/Parking/Food and drinks/Captioning/Audio description
+39,39,Feedbug,Pesochnoye,457,Accessible seating/Parking/VIP services
+40,40,Edgeclub,Arboga,645,Accessible seating/Parking/VIP services
+41,41,Browsezoom,Lautaro,561,Wi-Fi/Parking/Food and drinks/Accessible seating
+42,42,Twitterlist,San Javier,654,Wi-Fi/Parking/Food and drinks/Accessible seating
+43,43,Demizz,Minian,521,Accessible seating/Parking/VIP services
+44,44,Gabvine,Kandangan,240,Wi-Fi/Parking/Reserved seating/VIP services
+45,45,Voolith,Longxi,510,Accessible seating/Parking/VIP services
+46,46,Topiclounge,Kotawaikabubak,369,Wi-Fi/Parking/Reserved seating/VIP services
+47,47,Voomm,Druju,422,Wi-Fi/Parking/Food and drinks/Accessible seating
+48,48,Linkbridge,Santa Lucía,,Wi-Fi/Parking/Reserved seating/VIP services
+49,49,Oba,Romorantin-Lanthenay,271,Wi-Fi/Parking/Reserved seating/VIP services
+50,50,,Laliki,566,Wi-Fi/Parking/Food and drinks/Accessible seating
